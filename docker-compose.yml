@@ -1,0 +1,7 @@
+services:
+  server:
+    build: .
+    ports:
+      - "9001:8080"
+
+
